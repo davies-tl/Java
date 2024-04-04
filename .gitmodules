@@ -2,3 +2,7 @@
 	path = Circle
 	url = git@github.com:davies-tl/Circle.git
 	branch = master
+[submodule "CheckingAccount"]
+	path = CheckingAccount
+	url = git@github.com:davies-tl/CheckingAccount.git
+	branch = master
