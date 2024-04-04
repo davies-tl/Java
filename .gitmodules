@@ -6,3 +6,7 @@
 	path = CheckingAccount
 	url = git@github.com:davies-tl/CheckingAccount.git
 	branch = master
+[submodule "MathScienceGUI"]
+	path = MathScienceGUI
+	url = git@github.com:davies-tl/MathScienceGUI.git
+	branch = master
